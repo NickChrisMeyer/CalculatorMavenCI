@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//YOURS WILL HAVE A DIFFERENT NAME
 package com.emeris.calculatormavenci;
 
-/**
- *
- * @author Nick
- */
 public class Calculator {
     public int add(int a, int b)
     {
